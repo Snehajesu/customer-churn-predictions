@@ -24,6 +24,7 @@ Streamlit Deployment
 Machine Learning (Scikit-learn)
 
 The app allows users to:
+
 ✅ Upload their own dataset
 ✅ Perform data cleaning
 ✅ View statistical summaries
@@ -38,3 +39,4 @@ Pandas & NumPy – data processing
 Matplotlib & Seaborn – visualization
 Scikit-learn – ML models
 Plotly – interactive graphs
+
